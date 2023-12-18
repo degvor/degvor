@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on R & D optimization
 - 📫 How to reach me: (https://www.linkedin.com/in/andrii-yushchenko-6ba248243/)
-- 
 <!--
 **degvor/degvor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
