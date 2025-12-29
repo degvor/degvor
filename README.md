@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Andrii Yushchenko
 
-I am a **Data Scientist** and **R&D Specialist** passionate about extracting meaningful insights from complex datasets and building scalable software solutions[cite: 3, 12, 14].
+I am a **Data Scientist** and **R&D Specialist** passionate about extracting meaningful insights from complex datasets and building scalable software solutions.
 
 - 🔭 **I’m currently working on:** R&D optimization and Data Science at **OpalData**.
 - 🎓 **Education:** Pursuing a Bachelor's degree in **Software Engineering** at the National Technical University of Ukraine "Kyiv Polytechnic Institute".
